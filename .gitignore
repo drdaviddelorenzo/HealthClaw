@@ -59,3 +59,4 @@ memory/user_data/*
 *.zip
 restore_commit.txt
 model_responses.sync-conflict-*
+brief.md
